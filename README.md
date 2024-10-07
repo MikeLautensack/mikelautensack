@@ -45,9 +45,6 @@ I'm a **Full Stack Web Developer** with over two years of hands-on experience sp
 
 I’m always open to collaborating on interesting projects or discussing web development best practices. Let’s connect and build something amazing together!
 
----
-
-Feel free to edit this to better reflect your goals and style!
 
 <!--
 **MikeLautensack/mikelautensack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
