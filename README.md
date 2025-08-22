@@ -4,10 +4,10 @@ I'm a **Full Stack TypeScript Developer** with 2+ years of professional experien
 
 ### 🚀 What I Do:
 - **Frontend**: TypeScript, React.js, Next.js, Vite
-- **Backend**: Node.js, Next.js API Routes, Express.js, Nest.js (exploring)
-- **Database**: PostgreSQL (preferred), Supabase, MySQL, SQLite
+- **Backend**: Node.js, Next.js API Routes, Express.js, Nest.js
+- **Database**: PostgreSQL, MySQL, SQLite
 - **Cloud & DevOps**: Vercel, Azure, AWS, GitHub Actions, Docker
-- **Core Skills**: REST APIs, Authentication/Authorization, Stripe Integration, Error Monitoring
+- **Core Skills**: REST APIs, Authentication/Authorization, Stripe Integration, SQL
 
 ---
 
