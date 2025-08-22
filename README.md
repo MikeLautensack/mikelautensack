@@ -21,7 +21,7 @@ I'm a **Full Stack TypeScript Developer** with 2+ years of professional experien
 ### 💻 Featured Project:
 **[Estimate Generator](https://estimategeneratorapp.com/)**  
 A Field Service Management platform for contractors to create and email work estimates quickly.  
-**Tech Stack**: Next.js 14, TypeScript, PostgreSQL, Supabase Auth, Stripe, Vercel  
+**Tech Stack**: Next.js 15, TypeScript, PostgreSQL, Supabase Auth, Stripe, Vercel  
 > *Full-stack SaaS built entirely by me - from concept to production*
 
 ---
@@ -29,7 +29,6 @@ A Field Service Management platform for contractors to create and email work est
 ### 🏆 Achievements:
 - **Top Rated Plus** on Upwork with 100% job success score
 - **Microsoft Certified**: Azure Fundamentals (AZ-900)
-- Successfully delivered 20+ projects for small businesses and startups
 
 ---
 
