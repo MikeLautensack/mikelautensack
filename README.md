@@ -1,6 +1,6 @@
 # Hi, I'm Mike Lautensack 👋
 
-**Full-Stack Web Developer** working in TypeScript, React, Next.js, and Node.js. I build and ship production web apps end-to-end — payments, auth, performance, and design systems. Most recently, I owned the payment integration for a multi-country e-commerce platform.
+**Full-Stack Web Developer** working in TypeScript, React, Next.js, and Node.js. I build and ship production web apps end-to-end — payments, auth, performance, and design systems. Most recently I owned the payment integration for a multi-country e-commerce platform.
 
 I work AI-native day to day (Cursor, Claude Code, MCP servers) and care about clean architecture, fast pages, and software that solves real business problems.
 
@@ -8,11 +8,12 @@ I work AI-native day to day (Cursor, Claude Code, MCP servers) and care about cl
 
 ### 🛠️ Tech I work with
 - **Languages:** TypeScript, JavaScript, SQL
-- **Frontend:** React, Next.js (App Router, RSC), Tailwind CSS, ShadCN, Vite
+- **Frontend:** React, Next.js (App Router, RSC), Tailwind CSS, ShadCN, MUI, Vite
 - **Backend:** Node.js, Next.js API routes, Express.js, Nest.js, REST API design
 - **Databases:** PostgreSQL, Supabase, MySQL, SQLite
 - **Cloud & DevOps:** Vercel, Azure (AZ-900), OpenShift / Kubernetes, Docker, GitHub Actions
-- **Payments & Auth:** Stripe (multiple production integrations), JWT + database-session auth, PCI-compliant checkout
+- **Payments:** Stripe (multiple production integrations), Bank of America payment APIs, Hosted Payment Pages (HPP) & embedded checkout, webhooks & idempotent event handling, subscription/recurring billing, multi-processor routing, PCI SAQ D compliance
+- **Auth:** JWT + database-session auth (built from scratch), role-based access control, OAuth fundamentals
 - **AI / Agentic:** Cursor, Claude Code, MCP servers, RAG, vector search & databases
 
 ---
